@@ -1,0 +1,10 @@
+
+.mainAuthDiv{
+    display: grid;
+    justify-content: center;
+}
+
+.mainLineStyle{
+    text-align: center;
+    font-size: larger;
+}

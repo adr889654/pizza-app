@@ -1,0 +1,12 @@
+
+
+.mainDiv{
+    display: grid;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.mainLineStyle{
+    text-align: center;
+    font-size: larger;
+}

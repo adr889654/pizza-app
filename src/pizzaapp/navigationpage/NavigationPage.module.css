@@ -1,0 +1,12 @@
+
+.mainHeaderStyles{   
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.navigationStyle{
+    margin-left: 40px;
+    cursor: pointer;
+}
